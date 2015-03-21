@@ -1,0 +1,11 @@
+{
+"label":"Tài liệu",
+"menu":"Admin",
+"order":"6",
+
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}

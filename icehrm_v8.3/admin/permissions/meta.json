@@ -1,0 +1,11 @@
+{
+"label":"Quản lý quyền",
+"menu":"Hệ thống",
+"order":"4",
+
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}

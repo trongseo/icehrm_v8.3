@@ -1,0 +1,11 @@
+{
+"label":"Tài chính cty",
+"menu":"Admin",
+"order":"7",
+
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}

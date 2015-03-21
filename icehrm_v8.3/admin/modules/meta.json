@@ -1,0 +1,11 @@
+{
+"label":"Quản lý Modules",
+"menu":"Hệ thống",
+"order":"3",
+
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}

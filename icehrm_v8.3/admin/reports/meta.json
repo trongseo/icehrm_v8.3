@@ -1,0 +1,11 @@
+{
+"label":"Báo cáo",
+"menu":"Báo cáo",
+"order":"1",
+
+"user_levels":["Admin","Manager"],
+
+"permissions":
+	{
+	}	
+}

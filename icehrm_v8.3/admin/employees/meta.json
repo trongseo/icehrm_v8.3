@@ -1,0 +1,11 @@
+{
+"label":"Nhân viên",
+"menu":"Admin",
+"order":"2",
+
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}

@@ -1,0 +1,11 @@
+{
+"label":"Người dùng",
+"menu":"Hệ thống",
+"order":"2",
+
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}
